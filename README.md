@@ -1,15 +1,14 @@
 # Allignment-algorithm
-Global / Local Allignment algorithm with Python
+## Global / Local Allignment algorithm with Python
 
 
-Execute at Command line window.
-
- ### $python allignment.py (seq1 file name) (seq2 file name) (score file name)
+### $python allignment.py (seq1 file name) (seq2 file name) (score file name)
 
 Don't include extension at the file name('.txt')
 
 
 Sequence files have to be like
+
 
 ###############
 
@@ -19,7 +18,9 @@ Sequence files have to be like
 ###############
 
 
+
 Score files have to be like
+
 
 ###############
 
@@ -28,5 +29,6 @@ Score files have to be like
  gap=-1
 
 ###############
+
 
 The output file name will be like 'result_(current date time).txt'
