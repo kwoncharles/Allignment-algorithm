@@ -7,7 +7,7 @@
 Don't include extension at the file name('.txt')
 
 
-Sequence files have to be like
+### Sequence files have to be like
 
 
 ---------------------
@@ -20,7 +20,7 @@ Sequence files have to be like
 
 
 
-Score files have to be like
+### Score files have to be like
 
 
 ---------------------
@@ -35,4 +35,4 @@ Score files have to be like
 
 
 
-The output file name will be like 'result_(current date time).txt'
+### The output file name will be like 'result_(current date time).txt'
