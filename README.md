@@ -11,7 +11,7 @@ Don't include extension at the file name('.txt')
 
 ---------------------
 
- seq1
+ seq#
  
  aaacgcgactacgtcgagaa
 
@@ -24,11 +24,11 @@ Don't include extension at the file name('.txt')
 
 ---------------------
 
- match=3
+ match= `match point`
  
- mismatch=-1
+ mismatch= `mismatch point`
  
- gap=-1
+ gap=`gap point`
 
 ---------------------
 
