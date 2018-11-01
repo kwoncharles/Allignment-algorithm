@@ -11,7 +11,7 @@ Don't include extension at the file name('.txt')
 
 ---------------------
 
- seq#
+ seq`seq file number`
 
  aaacgcgactacgtcgagaa
 
